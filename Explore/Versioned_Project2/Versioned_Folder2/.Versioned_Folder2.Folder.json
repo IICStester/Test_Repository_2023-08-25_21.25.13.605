@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "1EL1dGVd2fpgIPkIO8dA4D",
-    "name" : "PullByCommitHash_CRUD_Folder",
+    "id" : "14wcgtwzYm4enNTqbCJCit",
+    "name" : "Versioned_Folder2",
     "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
@@ -12,7 +12,7 @@
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : "Binary",
+        "contentType" : null,
         "documentState" : "COMPLETE"
       }
     }

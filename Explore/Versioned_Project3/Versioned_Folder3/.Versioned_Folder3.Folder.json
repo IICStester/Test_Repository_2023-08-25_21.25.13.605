@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "1EL1dGVd2fpgIPkIO8dA4D",
-    "name" : "PullByCommitHash_CRUD_Folder",
+    "id" : "96Rt4qSYBGUhveFJYOcY63",
+    "name" : "Versioned_Folder3",
     "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
@@ -12,12 +12,12 @@
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : "Binary",
+        "contentType" : null,
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2023-08-25T21:25:47.301Z",
+  "updateTime" : "2023-08-25T21:25:47.307Z",
   "objectRefs" : [ ]
 }
